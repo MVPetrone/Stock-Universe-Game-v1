@@ -1,0 +1,7 @@
+1:Income taxes are raised:0.8:"high end products decrease in price slowly"
+2:Competitors in the market are increasing:0.7:"all products decrease in price quickly"
+3:Supply is increasing:0.7:"all products decrease in price"
+4:Market income is rising:1.2:"high end products increase in price slowly"
+5:Demand is increasing for low end products:1.3:"low end products increase in price"
+6:Supply for low end products are decreasing:1.4:"low end products increase in price quickly"
+7:Insane Profits!!:1.6::"entire stock market does better, now a sine wave of profit"

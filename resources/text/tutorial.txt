@@ -1,0 +1,13 @@
+[Player tutorial]
+
+1. Look at the graph. See if you can buy a product off the shelf using the 'z' key.
+
+2. If you were paying attention you would have noticed that you now own a stock. Well done!
+
+3. In order for you to get your cash back plus more, try to sell the stock when the price is higher!
+
+4. Good job! You made a profit of £{profit}. Now you can buy more stocks and get more profit. But rememeber... spend wisely.
+
+5. Ok. Now that you have the hang of it, try to get a balance of £1000 or more at the end of this month to complete the level.
+
+6. You're all set! Go onto the menu and select the next level.
